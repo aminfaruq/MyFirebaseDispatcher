@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirebaseDispatcher</string>
+    <string name="set_scheduler">set_scheduler</string>
+    <string name="cancel_scheduler">cancel_scheduler</string>
+</resources>
